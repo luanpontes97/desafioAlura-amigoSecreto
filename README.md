@@ -19,5 +19,4 @@
 </ul>
 
 <h2>✍️ Produzido por:</h2>
-
-<img src="https://gravatar.com/userimage/269181839/cc457e81e3d9510a0e70884285c6d18d.jpeg?size=256&cache=1754950482136" alt="Foto do perfil" width="200" height="200">
+<img src="https://gravatar.com/userimage/269181839/cc457e81e3d9510a0e70884285c6d18d.jpeg?size=256&cache=1754950482136" alt="Foto do perfil" width="175" height="175">
